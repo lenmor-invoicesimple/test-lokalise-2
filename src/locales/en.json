@@ -1,7 +1,7 @@
 {
     "welcome_header": "Hello world again!",
-    "greeting2": "Hello, world again!",
-    "welcome2": "Welcome to our site.",
+    "greeting": "Hello, world again!",
+    "welcome": "Welcome to our site.",
     "test_key": "Row row row your boat",
     "test.key.1": "Wipers on the bus",
     "new.key": "Something new",
@@ -15,5 +15,8 @@
     "test.key.2": "Driver on the jeep",
     "test.key.3": "Electric fan",
     "test.key.4": "Another new key",
+    "stripe-test": "Stripes",
+    "greeting2": "Hello, world again!",
+    "welcome2": "Welcome to our site.",
     "test.key.5": "Another new key"
 }
